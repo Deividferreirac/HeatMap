@@ -6,7 +6,7 @@ Linguaguem utilizada para o desenvolvimento: JAVA.
 > Desenvolvido junto a biblioteca jHeatChart. 
 
 
-Projeto referente a um Heat Map sobre Tesla e seus faturamentos anuais com base em calculos ficticios, trazendo um PNG para vizualizaçao simplificada.
+Projeto referente a um Heat Map sobre a Tesla e seus faturamentos anuais com base em calculos ficticios, trazendo um PNG para vizualizaçao simplificada.
 
 Links uteis:
 
